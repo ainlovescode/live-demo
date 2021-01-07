@@ -1,2 +1,2 @@
 # live-demo
-This is a sample demo repo
+This is a sample demo repository.
